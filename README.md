@@ -1,9 +1,9 @@
 # BORP-Launcher
 
 Installation instructions
- - Click __Download__, then download the zip.
+ - Click __Code__, then download the zip.
  
- - Drag and drop the file FLG-RP Launcher onto desktop.
+ - Drag and drop the file Blackout RP onto desktop.
  
  - When you run the file windows will prompt you, click __more info__ and then __run anyway__.
  
